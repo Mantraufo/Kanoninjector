@@ -1,3 +1,7 @@
+Grupo telegram https://t.me/LatinoMalware
+canal https://t.me/Malwarelatino
+
+
 # Kanoninjector
 Runpe + DInvoke +  Syscalls
 
