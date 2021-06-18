@@ -12,3 +12,6 @@ https://github.com/TheWover/DInvoke
 
 
 Red team Tools
+
+
+Documentacion https://thewover.github.io/Dynamic-Invoke/
