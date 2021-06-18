@@ -14,4 +14,9 @@ https://github.com/TheWover/DInvoke
 Red team Tools
 
 
-Documentacion https://thewover.github.io/Dynamic-Invoke/
+Documentacion 
+Emulating Covert Operations - Dynamic Invocation (Avoiding PInvoke & API Hooks)
+https://thewover.github.io/Dynamic-Invoke/
+
+SharpSploit
+https://github.com/cobbr/SharpSploit
